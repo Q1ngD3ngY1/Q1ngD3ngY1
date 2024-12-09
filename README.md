@@ -19,11 +19,32 @@ Here are some ideas to get you started:
 
 - 🎓 A master student majoring in cyberspace security at [<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/uestc.png" height="30em" align="center" alt="UESTC" title="UESTC"/>](https://www.uestc.edu.cn/)
 - 💼 A Cyber Security Engineer 𝚊𝚝 [<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/Tencent_English-logo.png" height="30em" align="center" alt="Tencent" title="Tencent"/>](https://github.com/tencent)
-- Interesting: :Anime:, :games:, :fitness:, :food:
+- 👯 Interesting: Anime, Games, Fitness, Food
 
 ## 👨🏻‍💻 𝚆𝚑𝚊𝚝 𝙸'𝚖 interested in
-2
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+  ```yaml
+    - Web Security
+    - Code Security
+    - Protocol Security
+    - Crypto
+    - Misc
+    - ...
+  ```
+- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+  ```yaml
+    - be a security guru
+    - live happily
+    - universal unity
+  ```
+- 🎯 Today I need to...
+  ```yaml
+    - count every minute
+    - learn efficiently 
+    - learn widely
+    - keep fit
+  ```
 ## 📫 How to reach me
-3
+- 📮 [pearain@foxmail.com](https://gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Q1ngD3ngY1)
