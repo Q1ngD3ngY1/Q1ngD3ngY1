@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
+1
 ## 👨🏻‍💻 𝚆𝚑𝚊𝚝 𝙸'𝚖 interested in
-
+2
 ## 📫 How to reach me:
-
+2
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Q1ngD3ngY1)
