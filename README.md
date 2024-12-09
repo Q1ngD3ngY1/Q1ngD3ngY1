@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-- 🎓 A master student majoring in cyberspace security at [<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/uestc.png" height="30em" align="center" alt="UESTC" title="UESTC"/>](https://www.uestc.edu.cn/)
-- 💼 A Cyber Security Engineer 𝚊𝚝 [<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/Tencent_English-logo.png" height="30em" align="center" alt="Tencent" title="Tencent"/>](https://github.com/tencent)
+- 🎓 A master student majoring in cyberspace security at  [<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/uestc.png" height="30em" align="center" alt="UESTC" title="UESTC"/>](https://www.uestc.edu.cn/)
+- 💼 A Cyber Security Engineer 𝚊𝚝  [<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/Tencent_English-logo.png" height="30em" align="center" alt="Tencent" title="Tencent"/>](https://github.com/tencent)
 - 👯 Interesting: Anime, Games, Fitness, Food, CTF
 
 ## 👨🏻‍💻 𝚆𝚑𝚊𝚝 𝙸'𝚖 interested in <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/Hi.gif" width="25" height="25"/>
