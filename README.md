@@ -47,4 +47,3 @@ Here are some ideas to get you started:
 ## 📫 How to reach me
 - 📮 [pearain@foxmail.com](https://gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Q1ngD3ngY1)
