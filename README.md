@@ -1,4 +1,4 @@
-<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/klee1.gif" alt="👋 Hi Young! I'm Q1ngD3ngY1" title="👋 Hi there! I'm Q1ngD3ngY1" width="auto" height="auto"/>
+
 
 <!--
 **Q1ngD3ngY1/Q1ngD3ngY1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/hello.gif" width="25" height="25"/>
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/klee1.gif" width="25" height="25"/>
 
 <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
     - learn widely
     - keep fit
   ```
-## 📫 How to reach me
+## 📫 How to reach me <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/hello.gif" width="25" height="25" />
 - 📮 [pearain@foxmail.com](https://gmail.com)
 
