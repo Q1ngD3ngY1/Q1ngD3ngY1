@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
+## 👨🏻‍💻 𝚆𝚑𝚊𝚝 𝙸'𝚖 interested in
+
+## 📫 How to reach me:
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Q1ngD3ngY1)
