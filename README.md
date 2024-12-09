@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/Hi.gif"/>
+
 <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 - 🎓 A master student majoring in cyberspace security at [<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/uestc.png" height="30em" align="center" alt="UESTC" title="UESTC"/>](https://www.uestc.edu.cn/)
