@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🎓 A master student majoring in cyberspace security at [<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/uestc.png" height="30em" align="center" alt="UESTC" title="UESTC"/>](https://www.uestc.edu.cn/)
 - 💼 A Cyber Security Engineer 𝚊𝚝 [<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/Tencent_English-logo.png" height="30em" align="center" alt="Tencent" title="Tencent"/>](https://github.com/tencent)
-- 👯 Interesting: Anime, Games, Fitness, Food
+- 👯 Interesting: Anime, Games, Fitness, Food, CTF
 
 ## 👨🏻‍💻 𝚆𝚑𝚊𝚝 𝙸'𝚖 interested in
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
