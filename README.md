@@ -1,4 +1,6 @@
-## Hi there <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/Hi.gif" width="29px">
+## Hi Young! <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/Hi.gif" width="29px">
+<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/hello.gif" alt="👋 Hi Young! I'm Q1ngD3ngY1" title="👋 Hi there! I'm Q1ngD3ngY1"/>
+
 <!--
 **Q1ngD3ngY1/Q1ngD3ngY1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
