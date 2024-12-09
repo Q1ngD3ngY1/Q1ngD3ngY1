@@ -1,5 +1,5 @@
-## Hi there 👋
-<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+## Hi there <img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/Hi.gif" width="29px">
+[<img src="https://github.com/Q1ngD3ngY1/Q1ngD3ngY1/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />]
 <!--
 **Q1ngD3ngY1/Q1ngD3ngY1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
